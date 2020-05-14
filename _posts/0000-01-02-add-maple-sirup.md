@@ -3,4 +3,4 @@ layout: slide
 title: "Welcome to our second slide!"
 ---
 Your text
-Use the left arrow to go back!
+There is no going back, espcially not with the *left* button.
